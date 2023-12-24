@@ -8,3 +8,7 @@ Our approach employs the YOLO object detection and segmentation model to identif
 
 
 *  For segmentation, we use the YOLO pre-trained model: yolov8l-seg.pt by Ultralytics. This model is trained in the famous COCO dataset. It is designed for instance segmentation tasks.
+
+
+Future development:
+We plan to train the model on more datasets like potholes, curbs, floor type(gravel, cement, asphalt roads), speed breakers/bumps, etc. to make the object detection/segmentation better.
